@@ -2,71 +2,71 @@
     [{question: "What is the unit measurement for the activity of a radioactive source?",
       correctAnwer: "The Becqueral (Bq). 1 Bq = 1 disintegration per second",
       answers: ["The Becqueral (Bq). 1 Bq = 1 disintegration per second",
-      "",
-      "",
-      ""]},
+      "Liter",
+      "Ounce",
+      "gallon"]},
       {question: "How many separate patents did Thomas Edison file?",
        correctAnswer: "1093",
        answers:["1093",
-       "",
-       "",
-       ""    
+       "15",
+       "129",
+       "781"    
        ]},
        {question: "Is a white gold ring pure gold? White gold is usually an alloy of gold and a white metal such as silver and palladium. Nickel is no longer used due to skin allergies. What is ‘fools gold’?",
        correctAnswer: "Iron pyrite crystals.",
        answers:["Iron pyrite crystals.",
-       "",
-       "",
-       ""    
+       "Silver gold",
+       "Fake gold",
+       "crystals"    
        ]},
        {question: "What is the symbol for Silver?",
        correctAnswer: "Ag",
        answers:["Ag",
-       "",
-       "",
-       ""    
+       "Ng",
+       "Sg",
+       "Um"    
        ]},
        {question: "What does ATP stand for?",
        correctAnswer: "Adenosine triphosphate, the molecule that is used for energy by all cells",
        answers:["Adenosine triphosphate, the molecule that is used for energy by all cells",
-       "",
-       "",
-       ""    
+       "Association of Tennis Professionals",
+       "Association of Test Publishers",
+       "Atlanta Technology Professionals"    
        ]},
        {question: "What survives impacting Earth’s surface; a meteor, a meteorite or an asteroid?",
        correctAnswer: "Meteorite.",
        answers:["Meteorite.",
-       "",
-       "",
-       ""    
+       "asteroid",
+       "meteroite",
+       "none"    
        ]},
        {question: "What is the strongest known magnet in the Universe?",
        correctAnswer: "A Neutron Star",
        answers:["A Neutron Star",
-       "",
-       "",
-       ""    
+       "Samarium Cobalt",
+       "Neodymium Iron Boron",
+       "Alnico"    
        ]},
        {question: "Which is the hottest planet in the solar system?",
        correctAnswer: "Venus, surface temperature 460oC",
        answers:["Venus, surface temperature 460oC",
-       "",
-       "",
-       ""    
+       "Mars",
+       "Jupiter",
+       "Saturn"    
        ]},
        {question: "How far is the moon away from Earth?",
        correctAnswer: "Around 376 600 km away.",
        answers:["Around 376 600 km away.",
-       "",
-       "",
-       ""    
+       "Around 1m km away",
+       "Around 670 km away",
+       "Around 1.5m km away"    
        ]},
        {question: "Where does sound travel faster; water or air?",
        correctAnswer: "Water.",
        answers:["Water.",
-       "",
-       "",
-       ""    
+       "Air",
+       "same",
+       "Not able to measure"    
        ]}
        
     ];
